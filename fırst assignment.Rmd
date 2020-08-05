@@ -1,0 +1,30 @@
+---
+title: "Assignment 1: RMarkdown Homework"
+author: "Umut Mustafa Dilsiz"
+date: "05 08 2020"
+output: html_document
+---
+
+I am a student in Industrial Engineering at Boğaziçi University. Currently I am working at United Colors of Benetton as Sales Support Traniee. My linkedin is available at (https://www.linkedin.com/in/umut-mustafa-dilsiz-ab4590198)
+
+# useR! 2020: Robust alternatives for comparing time-event survival curves#
+The lecturer, lubomir Stepanek interested in survival analysis and its applications. He mentioned
+about two main dimeons his analysis which are covering both the time of the event and residents are introductory. The assumption-free version of the long-rank test seems to be a valid alternative for the comparison of the two time-event curves.
+
+[Robust alternatives for comparing time-event survival curves](https://www.youtube.com/watch?v=y6nVmbrsrJw)
+
+# Trustworthy Machine Learning: Debugging with Expert Knowledge#
+In this video, the lecturer introduce trustworth machine learning and it is important for safety critical areas. First step aim to determine which errors could be detected in data preprocessing stage. To catch errors in Machine Learning Pipelines, first the data is loaded then some preprocessing steps are applied to the data before a support vector machine is trained and tested. Lecturer goal is to improve error detection and gather more reproducible code examples to test tools.
+
+[Trustworthy Machine Learning: Debugging with Expert Knowledge](https://www.youtube.com/watch?v=7JHRkL5921g)
+
+# Comparing the Treatment Regimen of Pediatric Leukemia Patients#
+In this video, the lecture gives information about  Pediatric Leukemia Patients. In this project, the lecturer use a de-identify EHR, to catagorize newly diagnosed patients. Devoloping an automated process to infer NCR risk groups, collected clinical information from manual review. They able to determine 82% of patients as standard risk and 18% of patients as high risk.
+
+[Comparing the Treatment Regimen of Pediatric Leukemia PatientS](https://www.youtube.com/watch?v=qToKh1qev2c)
+
+# SynthTools: An R Package to Measure Synthetic Data Utility#
+The study focus on SynthTools which is a package with functions to aid the quality control and fully synthetic data. In tis video mentioned about three identical attributes which are dimensions, variable order and classification and factor levels.
+
+[SynthTools: An R Package to Measure Synthetic Data Utility](https://www.youtube.com/watch?v=SZK7Y_4p_TM)
+
