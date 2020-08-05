@@ -1,0 +1,13 @@
+---
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+# Assignment 1: RMarkdown Homework
+*Umut Mustafa Dilsiz*
+
+*05.08.2020*
+
+I am a student in Industrial Engineering at Boğaziçi University. Currently I am working at United Colors of Benetton as Sales Support Traniee. My linkedin is available at (https://www.linkedin.com/in/umut-mustafa-dilsiz-ab4590198)
+
