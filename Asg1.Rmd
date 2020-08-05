@@ -1,13 +1,12 @@
 ---
-output:
-  html_document: default
-  word_document: default
-  pdf_document: default
+title: "Assignment 1"
+author: "Umut Mustafa Dilsiz"
+date: "05 08 2020"
+output: html_document
 ---
-# Assignment 1: RMarkdown Homework
-*Umut Mustafa Dilsiz*
 
-*05.08.2020*
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
-I am a student in Industrial Engineering at Boğaziçi University. Currently I am working at United Colors of Benetton as Sales Support Traniee. My linkedin is available at (https://www.linkedin.com/in/umut-mustafa-dilsiz-ab4590198)
-
+Test
